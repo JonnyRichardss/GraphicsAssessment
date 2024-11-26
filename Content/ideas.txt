@@ -1,0 +1,6 @@
+particle spaceships
+fluid sim in pipes?
+mechanical arm to show skeletal animations
+portal becomes a dynamic mesh
+ships landing/ taking off
+little robots on floor (like SW mouse things)
